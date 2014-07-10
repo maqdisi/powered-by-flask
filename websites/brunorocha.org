@@ -1,0 +1,5 @@
+Name: Bruno Rocha's web site
+URL: http://brunorocha.org/
+Source: https://github.com/pythonhub/quokka
+
+The personal website of Bruno Rocha, powered by Quokka CMS (Flask and MongoDB).

@@ -1,0 +1,5 @@
+Name: Quokka CMS Demo website
+URL: http://demo.quokkaproject.org
+Source: https://github.com/pythonhub/quokka
+
+The demo site for Quokka CMS (Flask and MongoDB)
