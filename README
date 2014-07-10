@@ -1,0 +1,19 @@
+Powered by Flask
+
+  This repository contains websites that are powered by the
+  Flask framework.
+
+  How to Add Websites
+  ```````````````````
+
+    To add websites just send a pull request with your project.
+    Each website is a plain old text file without an extension
+    and contains meta information.  The format is as follows:
+
+      Name: The name of your website
+      URL: The URL of your website
+      Source: Optionally the link to the sourcecode
+
+      Optionally some textual description.  Double newlines
+      are preserved as paragraph, regular newlines are
+      normalized to whitespace.
