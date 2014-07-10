@@ -12,6 +12,32 @@
     "source": null,
     "url": "https://www.blossom.io"
   },
+  "brunorocha.org": {
+    "checksum": "d5a78d6c01feee7e45c6f5af4d3a6abc795222ad",
+    "description": "The personal website of Bruno Rocha, powered by Quokka CMS (Flask and MongoDB).\n",
+    "last_update": 1405016175,
+    "name": "Bruno Rocha's web site",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": "https://github.com/pythonhub/quokka",
+    "url": "http://brunorocha.org/"
+  },
+  "demo.quokkaproject.org": {
+    "checksum": "44881467e6d10cbdb4b43e8f0f6079f247e69a8c",
+    "description": "The demo site for Quokka CMS (Flask and MongoDB)\n",
+    "last_update": 1405016172,
+    "name": "Quokka CMS Demo website",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": "https://github.com/pythonhub/quokka",
+    "url": "http://demo.quokkaproject.org"
+  },
   "dheera.net": {
     "checksum": "70f96788ce4f517247761726192dc3868f71bb37",
     "description": "The personal website of Dheera Venkatraman.\n",
@@ -37,5 +63,18 @@
     },
     "source": null,
     "url": "http://flask.pocoo.org/"
+  },
+  "natalanimal.com.br": {
+    "checksum": "7a741cf0003652edade04a301acdb6409ecab716",
+    "description": "A Christmnas fundraising project powered by Quokka-Fundraising module and Quokka-Cart module (Quokka CMS)\n",
+    "last_update": 1405016184,
+    "name": "Natal Animal fundraising project",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": "https://github.com/pythonhub/quokka-fundraising",
+    "url": "http://natalanimal.com.br"
   }
 }
