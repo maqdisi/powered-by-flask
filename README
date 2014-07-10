@@ -17,3 +17,10 @@ Powered by Flask
       Optionally some textual description.  Double newlines
       are preserved as paragraph, regular newlines are
       normalized to whitespace.
+
+  Screenshots and Cache Folder
+  ````````````````````````````
+
+    Do not modify the screenshots in the cache folder or the
+    JSON file there.  There is a bot which monitors this repo
+    and automatically updates the files in there.
