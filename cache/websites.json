@@ -76,5 +76,18 @@
     },
     "source": "https://github.com/pythonhub/quokka-fundraising",
     "url": "http://natalanimal.com.br"
+  },
+  "truevault.com": {
+    "checksum": "90a9f43d37b5cd7b3b011e6b45fc307369b135a1",
+    "description": "A Secure, Compliant Datastore API for Health Data\n",
+    "last_update": 1405019712,
+    "name": "TrueVault",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": null,
+    "url": "https://www.truevault.com"
   }
 }
