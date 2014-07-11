@@ -25,6 +25,19 @@
     "source": "https://github.com/pythonhub/quokka",
     "url": "http://brunorocha.org/"
   },
+  "calpolyieee.org": {
+    "checksum": "d7e7ab381af792cd8afbc7eba4ae199e24ec7e93",
+    "description": "\nThis is the website for California Polytechnic State University San Luis\nObispo's IEEE student branch.\n",
+    "last_update": 1405061113,
+    "name": "Cal Poly IEEE - SB",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": true
+    },
+    "source": "https://github.com/CalPolyIEEE/ieee",
+    "url": "http://www.calpolyieee.org/"
+  },
   "demo.quokkaproject.org": {
     "checksum": "44881467e6d10cbdb4b43e8f0f6079f247e69a8c",
     "description": "The demo site for Quokka CMS (Flask and MongoDB)\n",
@@ -63,6 +76,19 @@
     },
     "source": null,
     "url": "http://flask.pocoo.org/"
+  },
+  "hfoss-fossrit.rhcloud.com": {
+    "checksum": "c20e7d01bc2d6f01e27a8bbf5ecb30e92a471e25",
+    "description": "Intro course offered by the Rochester Institute of Technlogy's Department of Interactive Games & Media for the new Academic Minor in Free/Open Source Software and Free Culture. Participants develop educational games and tools for the XO Laptop of One Laptop Per Child.\n",
+    "last_update": 1405061117,
+    "name": "Humanitarian Free/Open Source Software Development Course @ RIT",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": null,
+    "url": "https://hfoss-fossrit.rhcloud.com"
   },
   "jonathanstreet.com": {
     "checksum": "e32b8c3ac460aebacb2983da682ee39d9353a981",
