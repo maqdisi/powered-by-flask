@@ -90,6 +90,19 @@
     "source": "https://github.com/decause/hflossk",
     "url": "https://hfoss-fossrit.rhcloud.com"
   },
+  "inboxapp.com": {
+    "checksum": "e162a38d073510cf7a0f2afa04bc2657f31b882e",
+    "description": "Inbox: The next-generation email platform.\n",
+    "last_update": 1405107610,
+    "name": "Inbox",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": null,
+    "url": "https://www.inboxapp.com/"
+  },
   "jonathanstreet.com": {
     "checksum": "e32b8c3ac460aebacb2983da682ee39d9353a981",
     "description": "Personal website of Jonathan Street\n",
