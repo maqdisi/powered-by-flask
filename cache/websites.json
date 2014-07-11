@@ -90,6 +90,32 @@
     "source": "https://github.com/pythonhub/quokka-fundraising",
     "url": "http://natalanimal.com.br"
   },
+  "osf.io": {
+    "checksum": "340b9d1ed40a99443ee6a7d153e88a8f7b4c6384",
+    "description": "The Open Science Framework (OSF)--developed by the Center for Open Science (http://cos.io)--is a free service developed to support the entirety of a scientist's private or public workflow with the goal of increasing the alignment between scientific values and scientific practices.\n\nThe OSF supports the entire research lifecycle: planning, collaboration, execution, reporting, archiving, sharing, and discovery. This is accomplished via a flexible project organization system and powerful add-on system that connects OSF components to third-party repositories, tools, and services that scientists might use thus reducing the transition costs between them.",
+    "last_update": 1405048811,
+    "name": "Open Science Framework",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": true
+    },
+    "source": null,
+    "url": "http://osf.io"
+  },
+  "spaceandquotes.com": {
+    "checksum": "77d6b4b477ce430f5a1feb5a4867554bc6ab2ab7",
+    "description": "Back-end driven quote-on-a-space-background generator with image preloading -- no JavaScript.\n",
+    "last_update": 1405048811,
+    "name": "Space and Quotes",
+    "probe": {
+      "responds_to_head": false,
+      "site_exists": false,
+      "werkzeug_405": false
+    },
+    "source": null,
+    "url": "http://spaceandquotes.com/"
+  },
   "truevault.com": {
     "checksum": "90a9f43d37b5cd7b3b011e6b45fc307369b135a1",
     "description": "A Secure, Compliant Datastore API for Health Data\n",
@@ -102,5 +128,18 @@
     },
     "source": null,
     "url": "https://www.truevault.com"
+  },
+  "xichuangzhu.com": {
+    "checksum": "4de747838ba6fe37fef3bb4c1fd599f2b1c2a272",
+    "description": "A website for sharing Chinese traditional literature.\n",
+    "last_update": 1405048875,
+    "name": "Xichuangzhu",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": "https://github.com/hustlzp/xichuangzhu",
+    "url": "http://www.xichuangzhu.com"
   }
 }
