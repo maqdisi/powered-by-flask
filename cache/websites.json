@@ -129,6 +129,19 @@
     "source": null,
     "url": "http://osf.io"
   },
+  "skylines.aero": {
+    "checksum": "84ea6043ddb8af4242daea17eb47417903762b50",
+    "description": "Glider flight database and live tracking webpage\n",
+    "last_update": 1405067706,
+    "name": "SkyLines",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": true
+    },
+    "source": "https://github.com/skylines-project/skylines",
+    "url": "https://www.skylines.aero/"
+  },
   "spaceandquotes.com": {
     "checksum": "94c0e3b44eb49dfda5e2253e94b93b610bf818d0",
     "description": "Back-end driven quote-on-a-space-background generator with image preloading --\nno JavaScript.\n",
