@@ -103,6 +103,19 @@
     "source": null,
     "url": "http://jonathanstreet.com"
   },
+  "moodstocks.com": {
+    "checksum": "3b43f3c60ca8979b906063e6b938a90fdd93d1b1",
+    "description": "Image recognition for mobile applications.\n",
+    "last_update": 1405076415,
+    "name": "Moodstocks",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": true
+    },
+    "source": null,
+    "url": "https://moodstocks.com/"
+  },
   "natalanimal.com.br": {
     "checksum": "02ad824459a4d381bb9d0265f194d0d0fed87225",
     "description": "A Christmnas fundraising project powered by Quokka-Fundraising module and\nQuokka-Cart module (Quokka CMS)\n",
@@ -167,6 +180,19 @@
     },
     "source": null,
     "url": "https://www.truevault.com"
+  },
+  "winch.io": {
+    "checksum": "405f4be3285ad24d2b9802bb473274f9cc7fcd45",
+    "description": "Platform to replicate data to mobile applications.\n",
+    "last_update": 1405076411,
+    "name": "Winch",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": true
+    },
+    "source": null,
+    "url": "http://winch.io"
   },
   "xichuangzhu.com": {
     "checksum": "4de747838ba6fe37fef3bb4c1fd599f2b1c2a272",
