@@ -26,9 +26,9 @@
     "url": "http://brunorocha.org/"
   },
   "calpolyieee.org": {
-    "checksum": "d7e7ab381af792cd8afbc7eba4ae199e24ec7e93",
-    "description": "\nThis is the website for California Polytechnic State University San Luis\nObispo's IEEE student branch.\n",
-    "last_update": 1405061113,
+    "checksum": "46070c9df6c434d9d1b37d5d9b6b546afa0df795",
+    "description": "This is the website for California Polytechnic State University San Luis\nObispo's IEEE student branch.\n",
+    "last_update": 1405061419,
     "name": "Cal Poly IEEE - SB",
     "probe": {
       "responds_to_head": true,
@@ -78,16 +78,16 @@
     "url": "http://flask.pocoo.org/"
   },
   "hfoss-fossrit.rhcloud.com": {
-    "checksum": "c20e7d01bc2d6f01e27a8bbf5ecb30e92a471e25",
-    "description": "Intro course offered by the Rochester Institute of Technlogy's Department of Interactive Games & Media for the new Academic Minor in Free/Open Source Software and Free Culture. Participants develop educational games and tools for the XO Laptop of One Laptop Per Child.\n",
-    "last_update": 1405061117,
+    "checksum": "8764425aeea24ff82018855248d9d17a74398ae5",
+    "description": "Intro course offered by the Rochester Institute of Technlogy's Department of\nInteractive Games & Media for the new Academic Minor in Free/Open Source\nSoftware and Free Culture. Participants develop educational games and tools for\nthe XO Laptop of One Laptop Per Child.\n",
+    "last_update": 1405061423,
     "name": "Humanitarian Free/Open Source Software Development Course @ RIT",
     "probe": {
       "responds_to_head": true,
       "site_exists": true,
       "werkzeug_405": false
     },
-    "source": null,
+    "source": "https://github.com/decause/hflossk",
     "url": "https://hfoss-fossrit.rhcloud.com"
   },
   "jonathanstreet.com": {
@@ -104,9 +104,9 @@
     "url": "http://jonathanstreet.com"
   },
   "natalanimal.com.br": {
-    "checksum": "7a741cf0003652edade04a301acdb6409ecab716",
-    "description": "A Christmnas fundraising project powered by Quokka-Fundraising module and Quokka-Cart module (Quokka CMS)\n",
-    "last_update": 1405016184,
+    "checksum": "02ad824459a4d381bb9d0265f194d0d0fed87225",
+    "description": "A Christmnas fundraising project powered by Quokka-Fundraising module and\nQuokka-Cart module (Quokka CMS)\n",
+    "last_update": 1405061430,
     "name": "Natal Animal fundraising project",
     "probe": {
       "responds_to_head": true,
@@ -117,9 +117,9 @@
     "url": "http://natalanimal.com.br"
   },
   "osf.io": {
-    "checksum": "340b9d1ed40a99443ee6a7d153e88a8f7b4c6384",
-    "description": "The Open Science Framework (OSF)--developed by the Center for Open Science (http://cos.io)--is a free service developed to support the entirety of a scientist's private or public workflow with the goal of increasing the alignment between scientific values and scientific practices.\n\nThe OSF supports the entire research lifecycle: planning, collaboration, execution, reporting, archiving, sharing, and discovery. This is accomplished via a flexible project organization system and powerful add-on system that connects OSF components to third-party repositories, tools, and services that scientists might use thus reducing the transition costs between them.",
-    "last_update": 1405048811,
+    "checksum": "88c5ebff1478221521ed7bff6119d68a05c9a720",
+    "description": "The Open Science Framework (OSF)--developed by the Center for Open Science\n(http://cos.io)--is a free service developed to support the entirety of a\nscientist's private or public workflow with the goal of increasing the\nalignment between scientific values and scientific practices.\n\nThe OSF supports the entire research lifecycle: planning, collaboration,\nexecution, reporting, archiving, sharing, and discovery. This is accomplished\nvia a flexible project organization system and powerful add-on system that\nconnects OSF components to third-party repositories, tools, and services that\nscientists might use thus reducing the transition costs between them.\n",
+    "last_update": 1405061411,
     "name": "Open Science Framework",
     "probe": {
       "responds_to_head": true,
@@ -130,9 +130,9 @@
     "url": "http://osf.io"
   },
   "spaceandquotes.com": {
-    "checksum": "77d6b4b477ce430f5a1feb5a4867554bc6ab2ab7",
-    "description": "Back-end driven quote-on-a-space-background generator with image preloading -- no JavaScript.\n",
-    "last_update": 1405048811,
+    "checksum": "94c0e3b44eb49dfda5e2253e94b93b610bf818d0",
+    "description": "Back-end driven quote-on-a-space-background generator with image preloading --\nno JavaScript.\n",
+    "last_update": 1405061420,
     "name": "Space and Quotes",
     "probe": {
       "responds_to_head": false,
