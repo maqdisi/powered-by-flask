@@ -1,0 +1,7 @@
+Name: Cal Poly IEEE - SB
+URL: http://www.calpolyieee.org/
+Source: https://github.com/CalPolyIEEE/ieee
+
+
+This is the website for California Polytechnic State University San Luis
+Obispo's IEEE student branch.
