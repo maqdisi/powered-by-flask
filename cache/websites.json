@@ -78,9 +78,9 @@
     "url": "http://flask.pocoo.org/"
   },
   "hfoss-fossrit.rhcloud.com": {
-    "checksum": "8764425aeea24ff82018855248d9d17a74398ae5",
-    "description": "Intro course offered by the Rochester Institute of Technlogy's Department of\nInteractive Games & Media for the new Academic Minor in Free/Open Source\nSoftware and Free Culture. Participants develop educational games and tools for\nthe XO Laptop of One Laptop Per Child.\n",
-    "last_update": 1405108252,
+    "checksum": "36e2b2bfc9d52ec86eec737c172b247580861ae5",
+    "description": "Intro course offered by the Rochester Institute of Technology's Department of\nInteractive Games & Media for the new Academic Minor in Free/Open Source\nSoftware and Free Culture. Participants develop educational games and tools for\nthe XO Laptop of One Laptop Per Child.\n",
+    "last_update": 1405152309,
     "name": "Humanitarian Free/Open Source Software Development Course @ RIT",
     "probe": {
       "responds_to_head": true,
