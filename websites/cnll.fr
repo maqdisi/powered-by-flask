@@ -1,0 +1,5 @@
+Name: French National Council for Free Software website
+URL: http://cnll.fr/
+Source: https://github.com/OWF/owf2014/
+
+Website for CNLL, the French National Council for Free Software, an association that represents 400 companies dedicated to free and open source sowftare in France.the Open World Forum, a yearly conference in Paris dedicated to open source, open standards, open data, hardware, etc.
