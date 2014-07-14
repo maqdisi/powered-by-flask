@@ -1,0 +1,4 @@
+Name: Ubuntu Indonesia IRC Logger
+URL: http://ubuntu-id.rezhajulio.web.id/
+
+A website to show IRC log of #ubuntu-indonesia at Freenode. Powered by Flask and Twisted.
