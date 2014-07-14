@@ -129,6 +129,19 @@
     "source": "https://github.com/decause/hflossk",
     "url": "https://hfoss-fossrit.rhcloud.com"
   },
+  "hoodly.se": {
+    "checksum": "9b4467df53bb4694b432136e3f85bb4074282f8a",
+    "description": "Hoodly provide unbiased information and analysis of Swedish housing areas. \n",
+    "last_update": 1405359611,
+    "name": "Hoodly",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": null,
+    "url": "http://www.hoodly.se"
+  },
   "inboxapp.com": {
     "checksum": "e162a38d073510cf7a0f2afa04bc2657f31b882e",
     "description": "Inbox: The next-generation email platform.\n",
