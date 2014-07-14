@@ -12,6 +12,19 @@
     "source": "https://github.com/abilian/abilian.com",
     "url": "http://www.abilian.com/"
   },
+  "babibo.vn": {
+    "checksum": "6fcdce2f2506d129e6330d7f090ce97e862223de",
+    "description": "Viral media sharing website for young parents\n",
+    "last_update": 1405357214,
+    "name": "Babibo",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": null,
+    "url": "http://babibo.vn"
+  },
   "blossom.io": {
     "checksum": "da2a5b4e7a1ab355f0731fdadca1c2c10d27c637",
     "description": "A lightweight Agile/Lean Project Management Tool\n",
@@ -245,6 +258,19 @@
     },
     "source": null,
     "url": "https://www.truevault.com"
+  },
+  "ubuntu-id.rezhajulio.web.id": {
+    "checksum": "d91239edce55de06bf82583b53ce5daa85d74c6a",
+    "description": "A website to show IRC log of #ubuntu-indonesia at Freenode. Powered by Flask and Twisted.\n",
+    "last_update": 1405357218,
+    "name": "Ubuntu Indonesia IRC Logger",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": null,
+    "url": "http://ubuntu-id.rezhajulio.web.id/"
   },
   "winch.io": {
     "checksum": "405f4be3285ad24d2b9802bb473274f9cc7fcd45",
