@@ -1,4 +1,17 @@
 {
+  "abilian.com": {
+    "checksum": "d3507f6799c6d02b9886530feecbb73e1570a71a",
+    "description": "Website for Abilian SAS, a French company that develops and markets enterprise 2.0 solutions based on Flask, SQLAlchemy, etc.\n\nThe website for the company is itself made with Flask.",
+    "last_update": 1405327210,
+    "name": "Abilian SAS Website",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": "https://github.com/abilian/abilian.com",
+    "url": "http://www.abilian.com/"
+  },
   "blossom.io": {
     "checksum": "da2a5b4e7a1ab355f0731fdadca1c2c10d27c637",
     "description": "A lightweight Agile/Lean Project Management Tool\n",
@@ -37,6 +50,19 @@
     },
     "source": "https://github.com/CalPolyIEEE/ieee",
     "url": "http://www.calpolyieee.org/"
+  },
+  "cnll.fr": {
+    "checksum": "7f5abd7171ae1745615298b522cc49cfbd542beb",
+    "description": "Website for CNLL, the French National Council for Free Software, an association that represents 400 companies dedicated to free and open source sowftare in France.the Open World Forum, a yearly conference in Paris dedicated to open source, open standards, open data, hardware, etc.\n",
+    "last_update": 1405327209,
+    "name": "French National Council for Free Software website",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": true
+    },
+    "source": "https://github.com/OWF/owf2014/",
+    "url": "http://cnll.fr/"
   },
   "demo.quokkaproject.org": {
     "checksum": "44881467e6d10cbdb4b43e8f0f6079f247e69a8c",
@@ -154,6 +180,19 @@
     },
     "source": "https://github.com/pythonhub/quokka-fundraising",
     "url": "http://natalanimal.com.br"
+  },
+  "openworldforum.paris": {
+    "checksum": "7aba4c6afacad58b36e093423ff940af75f95707",
+    "description": "Website for the Open World Forum, a yearly conference in Paris dedicated to open source, open standards, open data, hardware, etc.\n",
+    "last_update": 1405327207,
+    "name": "Open World Forum 2014 website",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": true
+    },
+    "source": "https://github.com/OWF/owf2014/",
+    "url": "http://www.openworldforum.paris/"
   },
   "osf.io": {
     "checksum": "88c5ebff1478221521ed7bff6119d68a05c9a720",
