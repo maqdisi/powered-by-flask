@@ -15,7 +15,7 @@
   "babibo.vn": {
     "checksum": "6fcdce2f2506d129e6330d7f090ce97e862223de",
     "description": "Viral media sharing website for young parents\n",
-    "last_update": 1405357214,
+    "last_update": 1405962320,
     "name": "Babibo",
     "probe": {
       "responds_to_head": true,
@@ -275,7 +275,7 @@
   "ubuntu-id.rezhajulio.web.id": {
     "checksum": "d91239edce55de06bf82583b53ce5daa85d74c6a",
     "description": "A website to show IRC log of #ubuntu-indonesia at Freenode. Powered by Flask and Twisted.\n",
-    "last_update": 1405357218,
+    "last_update": 1405962325,
     "name": "Ubuntu Indonesia IRC Logger",
     "probe": {
       "responds_to_head": true,
