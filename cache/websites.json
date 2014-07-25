@@ -171,7 +171,7 @@
   "mame.kageurufu.net": {
     "checksum": "8b6ae8f1c776e091a2f08f0d4a726a5644001a03",
     "description": "A free mame indexer, with full search capabitilities and metadata for all your favorite games",
-    "last_update": 1405717507,
+    "last_update": 1406322608,
     "name": "Mame Index",
     "probe": {
       "responds_to_head": true,
