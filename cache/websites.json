@@ -233,6 +233,19 @@
     "source": null,
     "url": "http://osf.io"
   },
+  "pjuu.com": {
+    "checksum": "b9abd699c86aae795c157beb12a350830be2af83",
+    "description": "Yet another open-source social networking website, written with Flask and Redis.\n",
+    "last_update": 1406297107,
+    "name": "Pjuu",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": "https://github.com/pjuu/pjuu",
+    "url": "https://pjuu.com"
+  },
   "skylines.aero": {
     "checksum": "84ea6043ddb8af4242daea17eb47417903762b50",
     "description": "Glider flight database and live tracking webpage\n",
