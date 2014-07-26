@@ -119,7 +119,7 @@
   "hfoss-fossrit.rhcloud.com": {
     "checksum": "36e2b2bfc9d52ec86eec737c172b247580861ae5",
     "description": "Intro course offered by the Rochester Institute of Technology's Department of\nInteractive Games & Media for the new Academic Minor in Free/Open Source\nSoftware and Free Culture. Participants develop educational games and tools for\nthe XO Laptop of One Laptop Per Child.\n",
-    "last_update": 1405757410,
+    "last_update": 1406362509,
     "name": "Humanitarian Free/Open Source Software Development Course @ RIT",
     "probe": {
       "responds_to_head": true,
