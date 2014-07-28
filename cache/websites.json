@@ -132,7 +132,7 @@
   "hoodly.se": {
     "checksum": "9b4467df53bb4694b432136e3f85bb4074282f8a",
     "description": "Hoodly provide unbiased information and analysis of Swedish housing areas. \n",
-    "last_update": 1405964710,
+    "last_update": 1406569810,
     "name": "Hoodly",
     "probe": {
       "responds_to_head": true,
