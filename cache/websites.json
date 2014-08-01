@@ -236,7 +236,7 @@
   "pjuu.com": {
     "checksum": "b9abd699c86aae795c157beb12a350830be2af83",
     "description": "Yet another open-source social networking website, written with Flask and Redis.\n",
-    "last_update": 1406297107,
+    "last_update": 1406902208,
     "name": "Pjuu",
     "probe": {
       "responds_to_head": true,
