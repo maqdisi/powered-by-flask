@@ -2,7 +2,7 @@
   "abilian.com": {
     "checksum": "d3507f6799c6d02b9886530feecbb73e1570a71a",
     "description": "Website for Abilian SAS, a French company that develops and markets enterprise 2.0 solutions based on Flask, SQLAlchemy, etc.\n\nThe website for the company is itself made with Flask.",
-    "last_update": 1406537410,
+    "last_update": 1407142510,
     "name": "Abilian SAS Website",
     "probe": {
       "responds_to_head": true,
@@ -67,7 +67,7 @@
   "cnll.fr": {
     "checksum": "7f5abd7171ae1745615298b522cc49cfbd542beb",
     "description": "Website for CNLL, the French National Council for Free Software, an association that represents 400 companies dedicated to free and open source sowftare in France.the Open World Forum, a yearly conference in Paris dedicated to open source, open standards, open data, hardware, etc.\n",
-    "last_update": 1406537409,
+    "last_update": 1407142509,
     "name": "French National Council for Free Software website",
     "probe": {
       "responds_to_head": true,
@@ -210,7 +210,7 @@
   "openworldforum.paris": {
     "checksum": "7aba4c6afacad58b36e093423ff940af75f95707",
     "description": "Website for the Open World Forum, a yearly conference in Paris dedicated to open source, open standards, open data, hardware, etc.\n",
-    "last_update": 1406537408,
+    "last_update": 1407142508,
     "name": "Open World Forum 2014 website",
     "probe": {
       "responds_to_head": true,
