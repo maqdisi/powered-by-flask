@@ -116,6 +116,19 @@
     "source": null,
     "url": "http://flask.pocoo.org/"
   },
+  "gae-init.appspot.com": {
+    "checksum": "6c133bc4f09a6b227496fc3e9700fba66b3127b3",
+    "description": "gae-init is the easiest way to kick start new applications on \nGoogle App Engine using Flask, Bootstrap and tons of other \ncool features.\n",
+    "last_update": 1407250208,
+    "name": "gae-init",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": "https://github.com/gae-init/gae-init",
+    "url": "https://gae-init.appspot.com"
+  },
   "hfoss-fossrit.rhcloud.com": {
     "checksum": "36e2b2bfc9d52ec86eec737c172b247580861ae5",
     "description": "Intro course offered by the Rochester Institute of Technology's Department of\nInteractive Games & Media for the new Academic Minor in Free/Open Source\nSoftware and Free Culture. Participants develop educational games and tools for\nthe XO Laptop of One Laptop Per Child.\n",
@@ -195,9 +208,9 @@
     "url": "https://moodstocks.com/"
   },
   "natalanimal.com.br": {
-    "checksum": "02ad824459a4d381bb9d0265f194d0d0fed87225",
-    "description": "A Christmnas fundraising project powered by Quokka-Fundraising module and\nQuokka-Cart module (Quokka CMS)\n",
-    "last_update": 1406923561,
+    "checksum": "f0c6d4980c63c70951cf2e6d1513d9f8ec603fb3",
+    "description": "A Christmas fundraising project powered by Quokka-Fundraising module and\nQuokka-Cart module (Quokka CMS)\n",
+    "last_update": 1407250225,
     "name": "Natal Animal fundraising project",
     "probe": {
       "responds_to_head": true,
