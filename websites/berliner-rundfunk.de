@@ -1,4 +1,4 @@
 Name: Berliner Rundfunk 91.4
 URL: http://www.berliner-rundfunk.de
 
-Berliner Rundfunk 91.4, a german based radio station uses flask for syncing broadcasted song metadata to the website.
+Berliner Rundfunk 91.4, a radio station based in Germany which uses Flask for syncing broadcasted song metadata with their website.

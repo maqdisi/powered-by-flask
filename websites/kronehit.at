@@ -1,4 +1,4 @@
 Name: KRONEHIT
 URL: http://www.kronehit.at
 
-KRONEHIT, a austrian based radio station uses flask for syncing broadcasted song metadata to the website and os powering the site's API.
+KRONEHIT, a radio station based in Austria, which uses Flask for syncing broadcasted song metadata to their website and for powering the site's API.
