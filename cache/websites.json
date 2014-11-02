@@ -207,6 +207,19 @@
     "source": null,
     "url": "https://www.inboxapp.com/"
   },
+  "jeremydagorn.com": {
+    "checksum": "d47d1e857cca7b06511bfbfff8a1fb21c09fbb90",
+    "description": "Personal website of Jeremy Dagorn. The final objective is to have a small CMS powered by Flask, where you can create and maintain your blog easily.\n",
+    "last_update": 1414945512,
+    "name": "Jeremy Dagorn Personal Blog",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": "https://github.com/jrm2k6/jeremydagorn-blog",
+    "url": "http://www.flask-blog.jeremydagorn.com"
+  },
   "jonathanstreet.com": {
     "checksum": "e32b8c3ac460aebacb2983da682ee39d9353a981",
     "description": "Personal website of Jonathan Street\n",
