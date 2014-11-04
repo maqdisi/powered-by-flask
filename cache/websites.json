@@ -51,6 +51,19 @@
     "source": null,
     "url": "https://www.blossom.io"
   },
+  "bonioinetakoak.com": {
+    "checksum": "c8c1ed59ce4b193fa157cb6db9ea2fd780197b31",
+    "description": "A local shoe store based in Tolosa, Basque Country. The web management is done by Kolore CMS\n",
+    "last_update": 1415138710,
+    "name": "Boni Oinetakoak",
+    "probe": {
+      "responds_to_head": true,
+      "site_exists": true,
+      "werkzeug_405": false
+    },
+    "source": "https://github.com/ChromaBranding/kolore",
+    "url": "http://bonioinetakoak.com/"
+  },
   "brunorocha.org": {
     "checksum": "d5a78d6c01feee7e45c6f5af4d3a6abc795222ad",
     "description": "The personal website of Bruno Rocha, powered by Quokka CMS (Flask and MongoDB).\n",
