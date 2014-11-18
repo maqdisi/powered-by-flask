@@ -54,7 +54,7 @@
   "bonioinetakoak.com": {
     "checksum": "c8c1ed59ce4b193fa157cb6db9ea2fd780197b31",
     "description": "A local shoe store based in Tolosa, Basque Country. The web management is done by Kolore CMS\n",
-    "last_update": 1415743812,
+    "last_update": 1416348912,
     "name": "Boni Oinetakoak",
     "probe": {
       "responds_to_head": true,
