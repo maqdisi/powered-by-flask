@@ -314,7 +314,7 @@
   "natalanimal.com.br": {
     "checksum": "f0c6d4980c63c70951cf2e6d1513d9f8ec603fb3",
     "description": "A Christmas fundraising project powered by Quokka-Fundraising module and\nQuokka-Cart module (Quokka CMS)\n",
-    "last_update": 1421510714,
+    "last_update": 1422115814,
     "name": "Natal Animal fundraising project",
     "probe": {
       "responds_to_head": true,
