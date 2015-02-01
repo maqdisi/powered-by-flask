@@ -223,7 +223,7 @@
   "jeremydagorn.com": {
     "checksum": "d47d1e857cca7b06511bfbfff8a1fb21c09fbb90",
     "description": "Personal website of Jeremy Dagorn. The final objective is to have a small CMS powered by Flask, where you can create and maintain your blog easily.\n",
-    "last_update": 1422206712,
+    "last_update": 1422811813,
     "name": "Jeremy Dagorn Personal Blog",
     "probe": {
       "responds_to_head": true,
