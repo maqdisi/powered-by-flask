@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="Websites that are powered by the Flask framework.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Powered by Flask">
+  <meta property="og:description" content="Websites that are powered by the Flask framework.">
+  <meta name="twitter:card" content="summary">
+  <title>Powered by Flask</title>
+  <style>
+    html, body {
+      margin: 0;
+    }
+    .container {
+      padding: 20px;
+      font-family: "Helvetica Nenu", Hevetica, Arial, sans-serif;
+    }
+    header.container {
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+    }
+    header h1 {
+      margin: .65em 0;
+      font: bold 80px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+      color: #343434;
+    }
+    header p {
+      font: 28px/34px Georgia, "Times New Roman", Palatino, serif;
+      color: #999;
+    }
+    .websites {
+      padding-top: 60px;
+      padding-bottom: 60px;
+    }
+    .websites:after {
+      display: table;
+      content: '';
+      clear: both;
+    }
+    .website {
+      position: relative;
+      display: inline-block;
+      float: left;
+      margin: 0 18px 24px 0;
+      width: 420px;
+      box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+      text-decoration: none;
+    }
+    .website:hover {
+      opacity: 0.8;
+      box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+    }
+    .website .image {
+      height: 260px;
+      width: 100%;
+      color: white;
+      background: rgba(0, 0, 0, 0.8) no-repeat center center;
+      background-size: cover;
+    }
+    .website span {
+      display: inline-block;
+      border-top: 1px solid #eee;
+      width: 100%;
+      text-align: center;
+      padding: 18px 10px 16px;
+      font-size: 16px;
+      text-transform: uppercase;
+      color: #454545;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      box-sizing: border-box;
+    }
+    @media (max-width: 680px) {
+      .website {
+        width: 100%;
+      }
+    }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script>
+    $.get('./cache/websites.json', function(resp) {
+      var template = '<a class="website" href="#1" aria-label="Visit #2"><div class="image" style="background-image:url(./cache/images/#0/s.png)"></div><span>#2</span></a>';
+      var html = '';
+      Object.keys(resp).forEach(function(key) {
+        var site = resp[key];
+        if (site.url && site.probe.site_exists) {
+          html += template
+            .replace(/#0/g, key)
+            .replace(/#1/g, site.url)
+            .replace(/#2/g, site.name);
+        }
+      });
+      $(function() {$('.websites').html(html)});
+    });
+  </script>
+</head>
+<body>
+  <header class="container">
+    <h1>Powered by Flask</h1>
+    <p>Websites that are powered by the Flask framework.</p>
+  </header>
+  <div class="websites container"></div>
+</body>
+</html>
